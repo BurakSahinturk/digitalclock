@@ -18,3 +18,5 @@ function clk() {
     document.getElementById("second").innerHTML = secs;
 }
 setInterval(clk, 1000)
+
+// allah belanı vermesin gülsümm
